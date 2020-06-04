@@ -6,7 +6,7 @@ Animation showing what happens to the charge form factor of the proton when diff
 
 The details of the physics can be found in the open access Phys. Rev. C article:
 
-J. M. Alarcón, D. W. Higinbotham, C. Weiss, and Zhihong Ye Phys. Rev. C 99, 044303 – Published 5 April 2019 https://doi.org/10.1103/PhysRevC.99.044303
+J. M. Alarcón, D. W. Higinbotham, C. Weiss, and Zhihong Ye Phys. Rev. C 99, 044303 https://doi.org/10.1103/PhysRevC.99.044303
 
 D. Higinbotham made the animation for the JLab press release that went along with the paper and it used by phys.org: https://phys.org/news/2019-06-physicists-team-tackle-proton-radius.html
 
