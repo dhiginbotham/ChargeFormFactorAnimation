@@ -4,9 +4,7 @@ Animation showing what happens to the charge form factor of the proton when diff
 
 ![](Goldilocks.gif)
 
-The details of the physics can be found in the open access Phys. Rev. C article:
-
-J. M. Alarcón, D. W. Higinbotham, C. Weiss, and Zhihong Ye, Phys. Rev. C 99, 044303 https://doi.org/10.1103/PhysRevC.99.044303
+The details of the physics can be found in the open access published manuscript by J. M. Alarcón, D. W. Higinbotham, C. Weiss, and Zhihong Ye, Phys. Rev. C 99, 044303 https://doi.org/10.1103/PhysRevC.99.044303
 
 D. Higinbotham made the animation for the JLab press release that went along with the paper and it used by phys.org: https://phys.org/news/2019-06-physicists-team-tackle-proton-radius.html
 
