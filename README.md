@@ -1,6 +1,6 @@
 # Proton Radius Determination
 
-Animation showing what happens to the charge form factor of the proton when different radii are used for both the data and the state-of-the-art model.
+Animation showing what happens to the charge form factor of the proton when different radii are used for both the data and the state-of-the-art model.   In the figure $G_E$ is the charge form factor of the proton and $Q^2$ is the four momentum transferred to the system (i.e. how hard the proton was struct).    
 
 ![](Goldilocks.gif)
 
