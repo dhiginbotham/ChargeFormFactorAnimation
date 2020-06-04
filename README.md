@@ -8,4 +8,4 @@ The details of the physics can be found in the open access published manuscript 
 
 D. Higinbotham made the animation for the Jefferson Lab press release and it used by phys.org in their aritcle: https://phys.org/news/2019-06-physicists-team-tackle-proton-radius.html
 
-The plots are referred to in the code as "Goldilocks" since by just watching the animation anyone can easily see which proton radius is just right. 
+The animtion gif in the code is referred to as "Goldilocks" since by just watching the animation anyone can easily see which proton radius is just right. 
